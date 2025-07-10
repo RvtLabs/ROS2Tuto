@@ -1,0 +1,10 @@
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/uninstall.dir
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/pkg_uninstall.dir
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/shital.dir
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/test.dir
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/edit_cache.dir
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/rebuild_cache.dir
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/list_install_components.dir
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/install.dir
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/install/local.dir
+/home/shital/shital/ROS2Tuto/shital_ws/build/pkg/CMakeFiles/install/strip.dir

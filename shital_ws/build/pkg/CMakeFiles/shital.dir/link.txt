@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/shital.dir/src/shital.cpp.o -o shital 

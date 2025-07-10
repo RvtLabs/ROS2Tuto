@@ -1,0 +1,16 @@
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/lib/pkg/shital
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/ament_index/resource_index/package_run_dependencies/pkg
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/ament_index/resource_index/parent_prefix_path/pkg
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/environment/ament_prefix_path.sh
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/environment/ament_prefix_path.dsv
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/environment/path.sh
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/environment/path.dsv
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/local_setup.bash
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/local_setup.sh
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/local_setup.zsh
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/local_setup.dsv
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/package.dsv
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/ament_index/resource_index/packages/pkg
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/cmake/pkgConfig.cmake
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/cmake/pkgConfig-version.cmake
+/home/shital/shital/ROS2Tuto/shital_ws/install/pkg/share/pkg/package.xml
