@@ -1,6 +1,0 @@
-Invoking command in '/home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vboxuser/shivam/ROS2Tuto/shivam_ws/src/pkg -DCMAKE_INSTALL_PREFIX=/home/vboxuser/shivam/ROS2Tuto/shivam_ws/install/pkg
-Invoked command in '/home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vboxuser/shivam/ROS2Tuto/shivam_ws/src/pkg -DCMAKE_INSTALL_PREFIX=/home/vboxuser/shivam/ROS2Tuto/shivam_ws/install/pkg
-Invoking command in '/home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg -- -j4 -l4
-Invoked command in '/home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg -- -j4 -l4
-Invoking command in '/home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg
-Invoked command in '/home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vboxuser/shivam/ROS2Tuto/shivam_ws/build/pkg
